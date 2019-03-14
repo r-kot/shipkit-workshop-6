@@ -34,4 +34,6 @@ public class MathUtils {
                 && a.add(c).compareTo(b) > 0
                 && b.add(c).compareTo(a) > 0;
     }
+    
+    void foo(){}
 }
